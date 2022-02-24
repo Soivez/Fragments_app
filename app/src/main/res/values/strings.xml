@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Multiple Backstack Navigation</string>
+  <string name="title_home">Home</string>
+  <string name="title_dashboard">Dashboard</string>
+  <string name="title_notifications">Notifications</string>
+    <string name="navigate_first_screen">Navigate: First Screen</string>
+    <string name="open_new">OPEN NEW</string>
+</resources>
